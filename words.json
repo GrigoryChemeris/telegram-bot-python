@@ -1,0 +1,26 @@
+{
+    "words": [
+        {
+            "word": "Cuvânt",
+            "transcription": "[kuˈvɨnt]",
+            "translation": "Слово"
+        },
+        {
+            "word": "Pisică",
+            "transcription": "[piˈsi.kə]",
+            "translation": "Кошка"
+        }
+    ],
+    "sentences": [
+        {
+            "sentence": "Pisica este pe masă.",
+            "transcription": "[piˈsi.kə ˈjɛste pe ˈma.sə]",
+            "translation": "Кошка на столе."
+        },
+        {
+            "sentence": "Cuvântul este important.",
+            "transcription": "[kuˈvɨntuɫ ˈjɛste imˈpor.tant]",
+            "translation": "Слово важно."
+        }
+    ]
+}
