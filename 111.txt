@@ -1,0 +1,1 @@
+TELEGRAM_BOT_TOKEN='8125020365:AAE2_btFJno8R2XmYXhep_oRt1osTpsJPHI'  # Замените на ваш токен
